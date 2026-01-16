@@ -6,13 +6,13 @@ O trabalho foi desenvolvido para a disciplina de **Tópicos Especiais em Matemá
 
 ---
 
-## 📺 Apresentação do Projeto
+## Apresentação do Projeto
 Assista ao vídeo explicativo com os detalhes da implementação e demonstração dos resultados:
-👉 [Link para o vídeo no YouTube](https://youtu.be/g1IpM8G3unE)
+[Link para o vídeo no YouTube](https://youtu.be/g1IpM8G3unE)
 
 ---
 
-## 📋 Resumo do Projeto
+## Resumo do Projeto
 
 O desafio central foi processar um dataset de mais de 10.000 imagens com alta variabilidade visual. A solução utilizou **Transfer Learning** e **Fine-Tuning** sobre a arquitetura **ResNet18**, alcançando excelentes métricas de generalização.
 
@@ -24,7 +24,7 @@ O desafio central foi processar um dataset de mais de 10.000 imagens com alta va
 
 ---
 
-## 🚀 Resultados Obtidos
+## Resultados Obtidos
 
 O modelo demonstrou um aprendizado sólido e consistente, conforme as métricas abaixo:
 
@@ -38,7 +38,7 @@ O modelo demonstrou um aprendizado sólido e consistente, conforme as métricas 
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 * **Linguagem:** Python 3
 * **Deep Learning Framework:** PyTorch
